@@ -1,0 +1,85 @@
+* {
+  padding: 0;
+  margin: auto;
+}
+
+body {
+  background-color: #f16763;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  text-align: center;
+  height: 100vh;
+}
+
+h1 {
+  color: #fff;
+  border-style: solid;
+  border-radius: 3px;
+  margin: 5% 35%;
+  padding: 10px 0;
+}
+
+.quote-box {
+  background-color: #fff;
+  width: 500px;
+  margin: 5% auto auto auto;
+  padding: 30px 40px;
+  height: auto;
+  border-radius: 3px;
+  display: table;
+  position: relative;
+}
+
+#text {
+  color: #f16763;
+  font-weight: 500;
+  font-size: 1.75em;
+  clear: both;
+}
+
+#author {
+  color: #f16763;
+  padding: 20px;
+  text-align: right;
+  clear: both;
+}
+
+.buttonsContainer {
+  width: 100%;
+  display: block;
+}
+
+.button {
+  background-color: #f16763;
+  color: #fff;
+  margin: 20px 5px 0 5px;
+  padding: 5px;
+  outline: none;
+  font-size: 0.8em;
+  border-radius: 3px;
+  height: 35px;
+  border: none;
+  cursor: pointer;
+  opacity: 1;
+}
+
+.button :hover {
+  opacity: 0.9;
+}
+
+#tweet-quote,
+#facebook-quote {
+  float: left;
+  height: 25px;
+}
+
+#new-quote {
+  float: right;
+  pad: 0 5px;
+}
+
+footer {
+  margin: 20px;
+  font-size: 0.8em;
+  color: #fff;
+}
