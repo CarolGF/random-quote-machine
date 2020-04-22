@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/random-quote-machine/static/css/main.9d990e50.chunk.css",
-    "main.js": "/random-quote-machine/static/js/main.50ec2ae1.chunk.js",
-    "main.js.map": "/random-quote-machine/static/js/main.50ec2ae1.chunk.js.map",
-    "runtime-main.js": "/random-quote-machine/static/js/runtime-main.116f0ca4.js",
-    "runtime-main.js.map": "/random-quote-machine/static/js/runtime-main.116f0ca4.js.map",
-    "static/js/2.8d2d9286.chunk.js": "/random-quote-machine/static/js/2.8d2d9286.chunk.js",
-    "static/js/2.8d2d9286.chunk.js.map": "/random-quote-machine/static/js/2.8d2d9286.chunk.js.map",
-    "index.html": "/random-quote-machine/index.html",
-    "precache-manifest.78ae7f3784d49540841031153eb2859e.js": "/random-quote-machine/precache-manifest.78ae7f3784d49540841031153eb2859e.js",
-    "service-worker.js": "/random-quote-machine/service-worker.js",
-    "static/css/main.9d990e50.chunk.css.map": "/random-quote-machine/static/css/main.9d990e50.chunk.css.map",
-    "static/js/2.8d2d9286.chunk.js.LICENSE.txt": "/random-quote-machine/static/js/2.8d2d9286.chunk.js.LICENSE.txt"
+    "main.css": "/random-quote/static/css/main.9d990e50.chunk.css",
+    "main.js": "/random-quote/static/js/main.9cf4861d.chunk.js",
+    "main.js.map": "/random-quote/static/js/main.9cf4861d.chunk.js.map",
+    "runtime-main.js": "/random-quote/static/js/runtime-main.feae6240.js",
+    "runtime-main.js.map": "/random-quote/static/js/runtime-main.feae6240.js.map",
+    "static/js/2.27e022f1.chunk.js": "/random-quote/static/js/2.27e022f1.chunk.js",
+    "static/js/2.27e022f1.chunk.js.map": "/random-quote/static/js/2.27e022f1.chunk.js.map",
+    "index.html": "/random-quote/index.html",
+    "precache-manifest.52a07bb7b53466a0a704e4587746fe8b.js": "/random-quote/precache-manifest.52a07bb7b53466a0a704e4587746fe8b.js",
+    "service-worker.js": "/random-quote/service-worker.js",
+    "static/css/main.9d990e50.chunk.css.map": "/random-quote/static/css/main.9d990e50.chunk.css.map",
+    "static/js/2.27e022f1.chunk.js.LICENSE.txt": "/random-quote/static/js/2.27e022f1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.116f0ca4.js",
-    "static/js/2.8d2d9286.chunk.js",
+    "static/js/runtime-main.feae6240.js",
+    "static/js/2.27e022f1.chunk.js",
     "static/css/main.9d990e50.chunk.css",
-    "static/js/main.50ec2ae1.chunk.js"
+    "static/js/main.9cf4861d.chunk.js"
   ]
 }
